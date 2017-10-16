@@ -4,7 +4,7 @@ A simple Encryption-Decryption example using JAVA
 Discription---------------------------------------------------------------------------------
 
 A string of password is converted into ascii code.
-ascii code is converted into binary
+ascii code is converted into binary.
 binary code is converted into some patterns of cherechters.
 
 
